@@ -1,0 +1,17 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+
+int main()
+{
+    int num1=366,num2=189;
+    //variable declaration
+
+    int sub=num2-num1;
+    //formula of subtraction
+
+    cout<<"Differences of two numbers are: "<<sub;
+    //display the result
+    getch();
+    return 0;
+}
